@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um estudante do 3º ano do Ensino Médio em uma escola profissionalizante integrada ao curso técnico em Informática. Tenho grande interesse pelo desenvolvimento Front-end!</p>
+<p align="left">Sou um estudante do 3º ano do Ensino Médio em uma escola profissionalizante integrada ao curso técnico em Informática. Tenho grande interesse pelo desenvolvimento <mark> Front-end!</mark></p>
 
 ###
 
